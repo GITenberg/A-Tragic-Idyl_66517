@@ -1,0 +1,27 @@
+_repo: A-Tragic-Idyl_66517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bourget, Paul
+    aliases:
+    - Bourget, Charles Joseph Paul
+    - Bourget, Paul Charles Joseph
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '1346'
+    url: http://www.gutenberg.org/2009/agents/1346
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_Bourget
+    - https://en.wikipedia.org/wiki/Paul_Bourget
+description: ''
+gutenberg_issued: '2021-10-11'
+identifiers:
+  gutenberg: '66517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Tragic Idyl
+url: http://www.gutenberg.org/ebooks/66517
